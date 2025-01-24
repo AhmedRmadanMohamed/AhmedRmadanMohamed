@@ -2,7 +2,6 @@
 Ahmed Ramadan Mohamed<br>Currently working as a Sr. Software Engineer at Vodafone Egypt<br>part of the Vodafone Cash team.<br>Emall:ahmedramadansmaha@gmail.com<br>Phone : 01008840571 -01595171930
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedramadanmohamedsmaha)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20032617)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201008840571)  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ahmedramadansma1)
 
 
