@@ -266,10 +266,10 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AhmedRmadanMohamed/AhmedRmadanMohamed/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRmadanMohamed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
