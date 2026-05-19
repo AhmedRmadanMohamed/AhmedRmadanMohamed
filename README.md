@@ -274,14 +274,16 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
 
 ---
 
-## 👁️ Profile Views
+## 👁️ Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedRmadanMohamed&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedRmadanMohamed&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AhmedRmadanMohamed?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AhmedRmadanMohamed?label=Stars&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Stars" />
 </p>
 
 ---
 
 <p align="center">
-  <strong>Building secure, scalable, and reliable backend systems with Java, Spring Boot, and Oracle.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer&text=Building%20Secure%20%7C%20Scalable%20%7C%20Reliable%20Backend%20Systems&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Footer Banner" />
 </p>
