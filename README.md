@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://github.com/AhmedRmadanMohamed/AhmedRmadanMohamed/blob/main/Video.mp4" width="220" alt="Ahmed Ramadan Mohamed Professional Profile GIF" />
+  <img src="./assets/profile.gif" width="220" alt="Ahmed Ramadan Mohamed Professional Profile GIF" />
 </p>
 
 <h1 align="center">Ahmed Ramadan Mohamed</h1>
