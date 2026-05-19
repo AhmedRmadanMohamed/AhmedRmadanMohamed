@@ -1,8 +1,16 @@
 <!-- ================= PROFESSIONAL GITHUB PROFILE README ================= -->
 
-<p align="center">
-  <img src="./assets/profile.gif" width="260" alt="Ahmed Ramadan Mohamed Professional Profile GIF" />
-</p>
+<!-- ================= PROFILE HERO ================= -->
+
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:6C63FF&height=180&section=header&text=Ahmed%20Ramadan%20Mohamed&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Profile Header Banner" />
+
+  <br/>
+
+  <img src="./assets/profile.gif" width="260" style="border-radius: 50%;" alt="Ahmed Ramadan Mohamed Professional Profile GIF" />
+
+</div>
 
 <h1 align="center">Ahmed Ramadan Mohamed</h1>
 
