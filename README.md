@@ -1,26 +1,43 @@
-<!-- ================= PROFESSIONAL GITHUB PROFILE README ================= -->
 
-<!-- ================= PROFILE HERO ================= -->
+<img 
+  align="left" 
+  hspace="28" 
+  vspace="8" 
+  src="./assets/profile.gif" 
+  width="185" 
+  alt="Ahmed Ramadan Mohamed Profile Animation" 
+/>
 
-<div align="center">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:6C63FF&height=180&section=header&text=Ahmed%20Ramadan%20Mohamed&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Profile Header Banner" />
-
-  <br/>
-
-  <img src="./assets/profile.gif" width="260" style="border-radius: 50%;" alt="Ahmed Ramadan Mohamed Professional Profile GIF" />
-
-</div>
-
-<h1 align="center">Ahmed Ramadan Mohamed</h1>
-
-<h3 align="center">
-  Senior Java Software Engineer | Backend Engineering | Spring Boot | Microservices | Oracle PL/SQL
-</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2500&pause=900&center=true&vCenter=true&width=1000&lines=Senior+Java+Software+Engineer+%40+Vodafone+Egypt;Backend+Engineering+%7C+Spring+Boot+%7C+REST+APIs;Microservices+%7C+Oracle+PL%2FSQL+%7C+Spring+Security;Clean+Code+%7C+Design+Patterns+%7C+Enterprise+Systems;Building+Secure%2C+Scalable+and+Reliable+Backend+Services" alt="Typing SVG" />
+  <b>
+    <font size="70" >Ahmed Ramadan Mohamed</font>
+  </b>
 </p>
+
+<p align="right"> <b >Senior Java Software Engineer | Backend Engineering | Spring Boot | Microservices | Oracle PL/SQL</b>
+
+
+<p align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00D9FF&width=620&lines=Senior+Java+Backend+Engineer;5%2B+Years+Software+Engineering+Experience;Java+%7C+Spring+Boot+%7C+REST+APIs;Microservices+%7C+Oracle+PL%2FSQL;Building+Secure+Scalable+Backend+Systems" alt="Typing SVG" />
+</p>
+
+<br clear="left"/>
+
+
+
+## 👨‍💻 About Me
+
+ **Senior Java Backend Engineer** with **5+ years of experience** building secure, scalable, and reliable enterprise systems using **Java, Spring Boot, Microservices, REST APIs, Oracle Database, and PL/SQL**.
+
+Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, contributing to backend services for financial systems as part of the **Vodafone Cash Team**.
+
+- 🔭 Currently working on enterprise backend systems at **Vodafone Egypt**
+- 💳 Focused on secure financial backend services and API integrations
+- ⚙️ Experienced in **Java, Spring Boot, Spring Security, REST APIs, Microservices, and Oracle PL/SQL**
+- 🧠 Strong knowledge of **OOP, SOLID, Clean Code, Design Patterns, Data Structures, and Algorithms**
+- 🏗️ Interested in scalable backend architecture, system design, DevOps, and cloud-native development
+- 🚀 Passionate about building secure, maintainable, and high-performance enterprise applications
 
 ---
 
@@ -28,9 +45,6 @@
   <a href="mailto:ahmedramadansmaha@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmedramadansmaha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/ahmedramadanmohamedsmaha">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ramadan%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -50,22 +64,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **Senior Java Backend Engineer** with **5+ years of experience** building secure, scalable, and reliable enterprise systems using **Java, Spring Boot, Microservices, REST APIs, Oracle Database, and PL/SQL**.
-
-Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, contributing to backend services for financial systems as part of the **Vodafone Cash Team**.
-
-- 🔭 Currently working on enterprise backend systems at **Vodafone Egypt**
-- 💳 Focused on secure financial backend services and API integrations
-- ⚙️ Experienced in **Java, Spring Boot, Spring Security, REST APIs, Microservices, and Oracle PL/SQL**
-- 🧠 Strong knowledge of **OOP, SOLID, Clean Code, Design Patterns, Data Structures, and Algorithms**
-- 🏗️ Interested in scalable backend architecture, system design, DevOps, and cloud-native development
-- 🚀 Passionate about building secure, maintainable, and high-performance enterprise applications
-
----
-
-## 🧰 Core Tech Stack
+## 🧰  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,oracle,docker,jenkins,git,github,gitlab,linux,redhat,postman,idea,vscode,angular,nodejs,html,css,js,ts,cs,dotnet,azure,aws" alt="Core Tech Stack" />
@@ -174,7 +173,7 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### Vodafone Egypt — Senior Java Software Engineer  
 **Aug 2024 – Present**
@@ -296,6 +295,19 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRmadanMohamed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Dynamic%20%26%20Automated-0D1117?style=for-the-badge&logo=githubactions&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/README-Professional%20GitHub%20Profile-0D1117?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+---
+
 ## 🧠 Languages & Engineering Stack
 
 <table align="center">
@@ -414,7 +426,7 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
 
 ---
 
-## 🏆 Professional Badges
+## 🏆 Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Senior%20Backend%20Engineer-Java%20%7C%20Spring%20Boot-00D9FF?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -428,6 +440,8 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
   <img src="https://img.shields.io/badge/Engineering-Clean%20Code%20%7C%20SOLID%20%7C%20Design%20Patterns-0D1117?style=for-the-badge&logo=codefactor&logoColor=00D9FF" />
 </p>
 
+---
+
 ## 👁️ Profile Insights
 
 <p align="center">
@@ -439,5 +453,5 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer&text=Building%20Secure%20%7C%20Scalable%20%7C%20Reliable%20Backend%20Systems&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer&text=Senior%20Java%20Backend%20Engineer%20%7C%205%2B%20Years%20Experience&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Footer Banner" />
 </p>
