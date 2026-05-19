@@ -235,44 +235,190 @@ Currently, I work as a **Senior Java Software Engineer at Vodafone Egypt**, cont
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 Engineering Profile Dashboard
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRmadanMohamed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="GitHub Activity Graph" />
+  <img src="https://img.shields.io/badge/Professional%20Experience-5%2B%20Years-00D9FF?style=for-the-badge&logo=expertsexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20Role-Senior%20Java%20Software%20Engineer-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current%20Company-Vodafone%20Egypt-E60000?style=for-the-badge&logo=vodafone&logoColor=white" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedRmadanMohamed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Backend%20Systems-Enterprise%20%26%20Financial%20Services-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/API%20Development-RESTful%20APIs%20%7C%20Secure%20Integrations-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Database%20Engineering-Oracle%20PL%2FSQL%20%7C%20SQL%20Optimization-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedRmadanMohamed&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedRmadanMohamed&theme=tokyonight" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedRmadanMohamed&theme=tokyonight" alt="Most Commit Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedRmadanMohamed&theme=tokyonight&utcOffset=2" alt="Productive Time" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <h3>5+ Years</h3>
+      <b>Software Engineering</b><br/>
+      <sub>Backend, enterprise systems, database optimization</sub>
+    </td>
+    <td align="center" width="220">
+      <h3>Java / Spring</h3>
+      <b>Primary Stack</b><br/>
+      <sub>Spring Boot, Spring Security, REST APIs, Microservices</sub>
+    </td>
+    <td align="center" width="220">
+      <h3>Oracle / SQL</h3>
+      <b>Database Strength</b><br/>
+      <sub>PL/SQL, RMAN, query optimization, troubleshooting</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <h3>CI/CD</h3>
+      <b>DevOps Workflow</b><br/>
+      <sub>Git, GitHub, Docker, Jenkins, Linux</sub>
+    </td>
+    <td align="center" width="220">
+      <h3>Security</h3>
+      <b>Secure Backend</b><br/>
+      <sub>JWT, authentication, authorization, secure APIs</sub>
+    </td>
+    <td align="center" width="220">
+      <h3>Architecture</h3>
+      <b>Enterprise Design</b><br/>
+      <sub>Microservices, monoliths, clean code, design patterns</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Languages & Engineering Stack
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AhmedRmadanMohamed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=java" width="48" /><br/>
+      <b>Java</b><br/>
+      <sub>Primary Backend</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" /><br/>
+      <b>Spring Boot</b><br/>
+      <sub>Enterprise APIs</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="48" /><br/>
+      <b>Hibernate</b><br/>
+      <sub>JPA / ORM</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=oracle" width="48" /><br/>
+      <b>Oracle</b><br/>
+      <sub>SQL / PL-SQL</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br/>
+      <b>PostgreSQL</b><br/>
+      <sub>Relational DB</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/>
+      <b>MySQL</b><br/>
+      <sub>Database Design</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" /><br/>
+      <b>C#</b><br/>
+      <sub>ASP.NET Core</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" /><br/>
+      <b>.NET</b><br/>
+      <sub>Business Systems</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" /><br/>
+      <b>Angular</b><br/>
+      <sub>Frontend Apps</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/>
+      <b>Node.js</b><br/>
+      <sub>Backend Runtime</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=js" width="48" /><br/>
+      <b>JavaScript</b><br/>
+      <sub>Web Development</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" /><br/>
+      <b>TypeScript</b><br/>
+      <sub>Angular Stack</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=html" width="48" /><br/>
+      <b>HTML5</b><br/>
+      <sub>Web Markup</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=css" width="48" /><br/>
+      <b>CSS3</b><br/>
+      <sub>Web Styling</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=python" width="48" /><br/>
+      <b>Python</b><br/>
+      <sub>Scripting Basics</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" /><br/>
+      <b>Docker</b><br/>
+      <sub>Containers</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" /><br/>
+      <b>Jenkins</b><br/>
+      <sub>CI/CD</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" /><br/>
+      <b>Linux</b><br/>
+      <sub>Server Runtime</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" /><br/>
+      <b>AWS</b><br/>
+      <sub>Cloud Basics</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" /><br/>
+      <b>Azure</b><br/>
+      <sub>Cloud Basics</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 Professional Badges
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRmadanMohamed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <img src="https://img.shields.io/badge/Senior%20Backend%20Engineer-Java%20%7C%20Spring%20Boot-00D9FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Financial%20Systems-Vodafone%20Cash-E60000?style=for-the-badge&logo=vodafone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise%20Systems-Work%20Order%20%7C%20Network%20Inventory-6C63FF?style=for-the-badge&logo=architect&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Security-Spring%20Security%20%7C%20JWT-0D1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Database-Oracle%2019c%20%7C%20PL%2FSQL%20%7C%20RMAN-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+  <img src="https://img.shields.io/badge/Engineering-Clean%20Code%20%7C%20SOLID%20%7C%20Design%20Patterns-0D1117?style=for-the-badge&logo=codefactor&logoColor=00D9FF" />
+</p>
 
 ## 👁️ Profile Insights
 
