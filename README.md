@@ -270,60 +270,73 @@ Testing, Security & Engineering Practices
 <img src="https://img.shields.io/badge/August%202024-Present-8B5CF6?style=flat-square&logo=calendar&logoColor=white" alt="August 2024 to present" />
 <img src="https://img.shields.io/badge/Domain-Financial%20Systems-E60000?style=flat-square&logo=vodafone&logoColor=white" alt="Financial systems" />
 
-Design, develop, and support secure, scalable backend services for business-critical financial and enterprise applications.
+Contribute to Vodafone Cash, a financial platform serving approximately 25 million users, as part of the backend engineering team.
 
-Develop Java 17 and Spring Boot microservices supporting Vodafone Cash digital donation services and QR-code payment journeys.
+• Design and deliver Java 17 and Spring Boot microservices and REST APIs for digital donations, QR-code payments, and Vodafone Shop–Vodafone Cash integration, from system design to production release.
 
-Build secure REST APIs and backend business logic for financial transactions, customer journeys, transaction validation, and enterprise system integration.
+• Build event-driven flows with Apache Kafka and integrate Siebel CRM, Oracle Database, and enterprise platforms, using Apache Camel where appropriate.
 
-Design Apache Camel integration routes connecting backend services with Siebel CRM, Vodafone Shop, Oracle Database, and internal enterprise platforms.
+• Implement transaction validation, JWT authentication, authorization, and role-based access control with Spring Security.
 
-Implement authentication, authorization, JWT-based security, role-based access control, request validation, and exception handling using Spring Security.
+• Develop data-access components with Spring Data JPA and Hibernate; optimize Oracle SQL and PL/SQL for backend performance and reliability.
 
-Diagnose production incidents, perform root-cause analysis, and resolve issues involving microservices, REST APIs, integrations, and Oracle Database components.
+• Investigate production incidents and resolve root causes across distributed services, APIs, messaging, integrations, and databases.
 
-Optimize Oracle SQL and PL/SQL components and develop automated tests using JUnit and Mockito.
+• Write unit and integration tests with JUnit and Mockito, review pull requests, and support teammates with technical problem-solving.
 
-Support distributed backend services across AWS and Azure environments.
+• Collaborate with DevOps on CI/CD releases to AWS and Azure environments managed by the DevOps team.
 
 <h3><strong>M.T.S IT — Java Software Engineer</strong></h3>
 
 <img src="https://img.shields.io/badge/January%202021-August%202024-3B82F6?style=flat-square&logo=calendar&logoColor=white" alt="January 2021 to August 2024" />
 <img src="https://img.shields.io/badge/Systems-Work%20Order%20%26%20Network%20Inventory-0F172A?style=flat-square&logo=serverfault&logoColor=22D3EE" alt="Work Order and Network Inventory systems" />
 
-Designed, developed, and supported Java and Spring Boot backend services and microservices for work-order management, network inventory, and enterprise applications.
+Promoted from Oracle Database Administrator to Java Software Engineer, bringing database expertise to backend development for financial and telecommunications applications.
 
-Built REST APIs and backend modules supporting workflow automation, inventory tracking, reporting, and business operations.
+• Developed Java and Spring Boot microservices for 2 enterprise platforms: Network Inventory, supporting financial transaction workflows, and Work-Order Management for telecommunications operations.
 
-Integrated Java backend services with Oracle ADF, H.I.V.E, Telegraph, and internal enterprise platforms.
+• Built REST APIs and Oracle ADF integrations for workflow automation, inventory tracking, and reporting.
 
-Designed and optimized Oracle Database objects, stored procedures, packages, triggers, and complex SQL and PL/SQL queries.
+• Delivered changes from technical analysis and system design through production release; troubleshot application, integration, and database issues.
 
-Diagnosed and resolved backend application, enterprise integration, and database issues in collaboration with cross-functional teams.
+• Implemented authentication, authorization, and request validation with Spring Security.
+
+• Designed and optimized Oracle SQL and PL/SQL, including tables, stored procedures, packages, triggers, and complex queries.
+
+• Wrote unit and integration tests with JUnit and Mockito and contributed to CI/CD and release workflows using Docker, Maven, and Git.
 
 <h3><strong>M.T.S IT — Oracle Database Administrator</strong></h3>
 
 <img src="https://img.shields.io/badge/January%202020-December%202020-F80000?style=flat-square&logo=calendar&logoColor=white" alt="January 2020 to December 2020" />
 <img src="https://img.shields.io/badge/Platform-Oracle%2019c-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle 19c" />
 
-Administered Oracle Database 19c environments, including installation, configuration, patching, monitoring, and routine maintenance.
+Supported Oracle databases across development, testing, and production environments for enterprise applications.
 
-Managed database schemas, users, roles, privileges, tablespaces, indexes, database objects, security, and access controls.
+• Administered Oracle Database 19c, including installation, configuration, patching, upgrades, health checks, and production support.
 
-Tuned SQL queries and database objects to resolve application performance and operational issues.
+• Tuned SQL and PL/SQL using execution plans, indexing, statistics, and schema optimization.
 
-Performed database backup and recovery operations using Oracle RMAN and documented administration and recovery procedures.
+• Implemented RMAN backup and recovery procedures and managed users, roles, privileges, tablespaces, and data files.
+
+• Supported migrations and releases; investigated database, storage, connectivity, and application-integration incidents.
+
+• Worked with application teams to resolve database issues and document repeatable administration and recovery procedures.
 
 <h3><strong>Integrated Solutions — C# Developer</strong></h3>
 
 <img src="https://img.shields.io/badge/March%202018-November%202019-64748B?style=flat-square&logo=calendar&logoColor=white" alt="March 2018 to November 2019" />
 <img src="https://img.shields.io/badge/Stack-C%23%20%7C%20ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# and ASP.NET Core" />
+Built and supported a client-facing electronic invoicing product using C# and ASP.NET Core.
 
-Developed and maintained an electronic invoicing system using C#, ASP.NET Core, Windows Forms, SQL Server, and Oracle Database.
+• Partnered with another developer to modernize a legacy Windows Forms application into a web solution, covering implementation, migration, and production delivery.
 
-Built modules supporting invoicing, reporting, data management, and workflow automation.
+• Developed REST APIs and backend modules for invoicing, reporting, data management, and workflow automation; implemented authentication, authorization, and Entity Framework Core data access.
 
-Contributed to the migration from Windows Forms to ASP.NET Core and supported SQL Server-to-Oracle database conversion.
+• Led the migration from SQL Server to Oracle Database 18c, including schema conversion, data migration, PL/SQL development, and query optimization.
+
+• Wrote unit tests and supported CI/CD, IIS hosting, production deployments, and troubleshooting.
+
+• Worked with stakeholders to clarify requirements and validate migrated functionality.
 
 <br />
 
