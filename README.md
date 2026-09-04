@@ -36,14 +36,29 @@
 <br />
 
 <a id="about-me"></a><img width="100%" src="./assets/about.svg" alt="About Me" />
+Senior Java Backend Engineer and Oracle Certified Professional (Java SE 17 Developer) with 8+ years in software engineering, including approximately 6 years focused on Java backend development. I design and build secure, production-grade services for financial and enterprise platforms.
 
-I am a Senior Java Software Engineer at Vodafone Egypt with 8+ years of software engineering experience, including 6 years focused on Java backend development using Java 17, Spring Boot, Microservices, REST APIs, Spring Security, Hibernate, and Oracle PL/SQL.
+At Vodafone Egypt, I contribute to Vodafone Cash, a platform serving approximately 25 million users. My work covers API and backend system design through production delivery for digital donations, QR-code payments, and Vodafone Shop–Vodafone Cash integration, alongside integrations with Siebel CRM, Oracle Database, and internal enterprise systems.
 
-At Vodafone Egypt, I design, develop, and support secure, scalable backend services for business-critical financial and enterprise applications. My work includes Vodafone Cash digital donation services, QR-code payment journeys, Vodafone Shop integrations, Siebel CRM integrations, and distributed backend services across AWS and Azure environments.
+Core expertise:
 
-I specialize in building maintainable REST APIs, implementing authentication and authorization with Spring Security and JWT, developing enterprise integrations with Apache Camel, optimizing Oracle Database and PL/SQL components, and resolving production incidents through root-cause analysis.
+• Java 17, Spring Boot, Spring Framework, Spring Data JPA, and Hibernate
 
-Primary focus: Java backend engineering, Spring Boot, Microservices, secure REST APIs, enterprise integration, Oracle PL/SQL, automated testing, and production reliability.
+• Microservices, REST APIs, Apache Kafka, event-driven architecture, and distributed systems
+
+• Spring Security, OAuth 2.0, JWT, role-based access control, and API security
+
+• Oracle Database, PostgreSQL, MySQL, Redis, SQL/PLSQL tuning, and caching
+
+• Docker, Kubernetes, CI/CD, Jenkins, Maven, Git, AWS, and Azure
+
+• JUnit, Mockito, unit testing, integration testing, Testcontainers, and SonarQube
+
+I develop business-critical backend flows, investigate production incidents, optimize database performance, review pull requests, and help teammates resolve technical problems. My focus is practical system design, reliable distributed services, clean code, and maintainable delivery.
+
+I collaborate with DevOps on CI/CD releases to AWS and Azure environments managed by the DevOps team.
+
+Open to Senior Java Backend Engineer opportunities across Egypt, the Gulf, and Europe, including remote, full-time, and contract roles.
 
 <div align="center">
 
