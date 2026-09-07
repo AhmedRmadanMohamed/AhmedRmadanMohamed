@@ -19,24 +19,26 @@
 
 <br />
 
-<a href="mailto:ahmedramadansmaha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmed" /></a><a href="https://www.linkedin.com/in/ahmedramadanmohamedsmaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahmed on LinkedIn" /></a><a href="https://github.com/AhmedRmadanMohamed"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ahmed on GitHub" /></a><a href="https://stackoverflow.com/users/20032617"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Ahmed on Stack Overflow" /></a><a href="https://www.hackerrank.com/profile/ahmedramadansma1"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="Ahmed on HackerRank" /></a>
+<a href="mailto:ahmedramadansmaha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmed" /></a><a href="https://www.linkedin.com/in/ahmedramadanmohamedsmaha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahmed on LinkedIn" /></a><a href="https://ahmedrmadanmohamed.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1220" alt="Ahmed's portfolio" /></a><a href="https://github.com/AhmedRmadanMohamed"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ahmed on GitHub" /></a><a href="https://stackoverflow.com/users/20032617"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Ahmed on Stack Overflow" /></a><a href="https://www.hackerrank.com/profile/ahmedramadansma1"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" alt="Ahmed on HackerRank" /></a>
 
 <br /><br />
 
-<a href="#about-me">About</a> ·<a href="#core-stack">Stack</a> ·<a href="#experience">Experience</a> ·<a href="#projects">Projects</a> ·<a href="#education">Education</a> ·<a href="#github-activity">GitHub</a>
+<a href="#about-me">About</a> · <a href="#core-stack">Stack</a> · <a href="#experience">Experience</a> · <a href="#projects">Projects</a> · <a href="#education">Education</a> · <a href="#github-activity">GitHub</a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Java%20Experience-6%20Years-3B82F6?style=flat-square&logo=expertsexchange&logoColor=white" alt="6 years of Java development experience" />
+<img src="https://img.shields.io/badge/Java%20Experience-6%20Years-3B82F6?style=flat-square&logo=openjdk&logoColor=white" alt="6 years of Java development experience" />
 <img src="https://img.shields.io/badge/Current%20Role-Senior%20Java%20Engineer-8B5CF6?style=flat-square&logo=openjdk&logoColor=white" alt="Senior Java Engineer" />
 <img src="https://img.shields.io/badge/Domain-Financial%20%26%20Enterprise%20Systems-0F172A?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Financial and enterprise systems" />
+<img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Cairo, Egypt" />
+<img src="https://img.shields.io/badge/Open%20to-Egypt%20%7C%20Gulf%20%7C%20Europe-16A34A?style=flat-square&logo=handshake&logoColor=white" alt="Open to roles across Egypt, the Gulf, and Europe" />
 
 </div>
 
 <br />
 
 <a id="about-me"></a><img width="100%" src="./assets/about.svg" alt="About Me" />
-Senior Java Backend Engineer and Oracle Certified Professional (Java SE 17 Developer) with 8+ years in software engineering, including approximately 6 years focused on Java backend development. I design and build secure, production-grade services for financial and enterprise platforms.
+Senior Java Backend Engineer and Oracle Certified Professional (Java SE 17 Developer) based in Cairo, Egypt, with 8+ years in software engineering and approximately 6 years focused on Java backend development. I design and build secure, production-grade services for financial and enterprise platforms.
 
 At Vodafone Egypt, I contribute to Vodafone Cash, a platform serving approximately 25 million users. My work covers API and backend system design through production delivery for digital donations, QR-code payments, and Vodafone Shop–Vodafone Cash integration, alongside integrations with Siebel CRM, Oracle Database, and internal enterprise systems.
 
@@ -56,7 +58,7 @@ Core expertise:
 
 I develop business-critical backend flows, investigate production incidents, optimize database performance, review pull requests, and help teammates resolve technical problems. My focus is practical system design, reliable distributed services, clean code, and maintainable delivery.
 
-I collaborate with DevOps on CI/CD releases to AWS and Azure environments managed by the DevOps team.
+I partner with DevOps teams on CI/CD releases to AWS and Azure environments.
 
 Open to Senior Java Backend Engineer opportunities across Egypt, the Gulf, and Europe, including remote, full-time, and contract roles.
 
@@ -179,6 +181,12 @@ DevOps, Cloud & Engineering Tools
 &nbsp;
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="56" height="56" alt="Azure" />
 &nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="56" height="56" alt="Kubernetes" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="56" height="56" alt="Redis" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="56" height="56" alt="RabbitMQ" />
+&nbsp;
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="56" height="56" alt="Postman" />
 &nbsp;
 <img src="./assets/icons/swagger-openapi.svg" width="56" height="56" alt="Swagger/OpenAPI" />
@@ -203,6 +211,8 @@ Testing, Security & Engineering Practices
 &nbsp;
 <img src="./assets/icons/secure-api.svg" width="56" height="56" alt="Secure API Development" />
 &nbsp;
+<img src="https://img.shields.io/badge/OAuth%202.0-1F2937?style=flat-square&logo=oauth&logoColor=22D3EE" height="28" alt="OAuth 2.0" />
+&nbsp;
 <img src="./assets/icons/unit-testing.svg" width="56" height="56" alt="Unit Testing" />
 &nbsp;
 <img src="./assets/icons/integration-testing.svg" width="56" height="56" alt="Integration Testing" />
@@ -210,6 +220,10 @@ Testing, Security & Engineering Practices
 <img src="./assets/icons/junit.svg" width="56" height="56" alt="JUnit" />
 &nbsp;
 <img src="./assets/icons/mockito.svg" width="56" height="56" alt="Mockito" />
+&nbsp;
+<img src="https://img.shields.io/badge/Testcontainers-1F2937?style=flat-square&logo=docker&logoColor=22D3EE" height="28" alt="Testcontainers" />
+&nbsp;
+<img src="https://img.shields.io/badge/SonarQube-1F2937?style=flat-square&logo=sonarqube&logoColor=4E9BCD" height="28" alt="SonarQube" />
 <br />
 &nbsp;
 <img src="./assets/icons/oop.svg" width="56" height="56" alt="OOP" />
@@ -267,7 +281,7 @@ Testing, Security & Engineering Practices
 
 <h3><strong>Vodafone Egypt — Senior Java Software Engineer</strong></h3>
 
-<img src="https://img.shields.io/badge/August%202024-Present-8B5CF6?style=flat-square&logo=calendar&logoColor=white" alt="August 2024 to present" />
+<img src="https://img.shields.io/badge/September%202024-Present-8B5CF6?style=flat-square&logo=calendar&logoColor=white" alt="September 2024 to present" />
 <img src="https://img.shields.io/badge/Domain-Financial%20Systems-E60000?style=flat-square&logo=vodafone&logoColor=white" alt="Financial systems" />
 
 Contribute to Vodafone Cash, a financial platform serving approximately 25 million users, as part of the backend engineering team.
@@ -343,44 +357,49 @@ Built and supported a client-facing electronic invoicing product using C# and AS
 <a id="projects"></a><img width="100%" src="./assets/projects.svg" alt="Featured Projects" />
 
 <details open>
-<summary><h3><strong>🛒 E-commerce Platform</strong></h3></summary>
+<summary><h3><strong>🛒 E-commerce Backend Foundation</strong></h3></summary>
 <br />
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/REST%20API-22D3EE?style=flat-square&logoColor=0B1220" alt="REST API" />
 
-Built a full-stack e-commerce platform using Spring Boot, PostgreSQL, and Angular.
+Built a Spring Boot e-commerce backend foundation with MySQL persistence for products, categories, carts, orders, reviews, users, brands, and storefront parameters.
 
-Structured the backend around maintainable APIs, persistence, validation, and security-focused practices.
+Structured the service around layered controllers, services, DTO mapping, repositories, validation, exception handling, and maintainable REST APIs.
+
+<a href="https://github.com/AhmedRmadanMohamed/E-commerce">View source code →</a>
 
 </details>
 
 <details>
-<summary><h3><strong>👥 Human Resources Management System</strong></h3></summary>
+<summary><h3><strong>👥 Human Resources API</strong></h3></summary>
 <br />
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
 
-Developed an HR management application with secured backend workflows.
+Built a secure Spring Boot HR API with stateless JWT authentication, role-based access control, BCrypt password hashing, Flyway migrations, OpenAPI documentation, Docker support, and MySQL persistence.
 
-Integrated PostgreSQL for structured, reliable, and scalable data storage.
+<a href="https://github.com/AhmedRmadanMohamed/Human-Resources-v2.0.0">View source code →</a>
 
 </details>
 
 <details>
-<summary><h3><strong>💊 Stock Medicines System</strong></h3></summary>
+<summary><h3><strong>💊 Pharmacy Inventory System</strong></h3></summary>
 <br />
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 
-Developed a medicine stock management system with secure access controls.
+Developed a Spring Boot pharmacy inventory system for drugs, stock levels, suppliers, invoices, and discarded items.
 
-Designed a MySQL data model for organized and dependable inventory management.
+Designed a MySQL data model with secure access controls and dependable inventory workflows.
+
+<a href="https://github.com/AhmedRmadanMohamed/Stock-Pharmacy-">View source code →</a>
 
 </details>
 
