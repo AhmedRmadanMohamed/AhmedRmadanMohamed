@@ -441,8 +441,8 @@ Software Development Life Cycle — Udemy
 
 <div align="center">
 
-<p><strong>Public engineering activity</strong><br />
-<a href="https://github.com/AhmedRmadanMohamed?tab=overview&from=2023-01-01&to=2026-12-31">View contribution history on GitHub →</a></p>
+<p><strong>GitHub snapshot</strong><br />
+<a href="https://github.com/AhmedRmadanMohamed?tab=overview">Explore repositories and contributions →</a></p>
 
 <img src="https://img.shields.io/github/repos/AhmedRmadanMohamed?label=Public%20repositories&style=for-the-badge&color=3B82F6&logo=github" alt="Public repositories" />
 <img src="https://komarev.com/ghpvc/?username=AhmedRmadanMohamed&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
