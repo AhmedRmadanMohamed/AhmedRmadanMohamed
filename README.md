@@ -298,7 +298,7 @@ Contribute to Vodafone Cash, a financial platform serving approximately 25 milli
 
 • Write unit and integration tests with JUnit and Mockito, review pull requests, and support teammates with technical problem-solving.
 
-• Collaborate with DevOps on CI/CD releases to AWS and Azure environments managed by the DevOps team.
+• Partner with DevOps teams on CI/CD releases to AWS and Azure environments.
 
 <h3><strong>M.T.S IT — Java Software Engineer</strong></h3>
 
