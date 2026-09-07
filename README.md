@@ -11,6 +11,10 @@
 
 <br />
 
+<img width="100%" src="./assets/ambient-rain.gif" alt="Subtle animated cyan, violet, and snow-white rain divider" />
+
+<br />
+
 <img src="./assets/profile.gif" width="150" alt="Ahmed Ramadan Mohamed profile animation" />
 
 <br />
@@ -449,6 +453,28 @@ Software Development Life Cycle — Udemy
 <img src="https://img.shields.io/github/followers/AhmedRmadanMohamed?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/AhmedRmadanMohamed?affiliations=OWNER&label=Stars&style=for-the-badge&color=22D3EE&logo=github&logoColor=0F172A" alt="GitHub stars" />
 
+<br /><br />
+
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedRmadanMohamed&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedRmadanMohamed&theme=github_dark" width="49%" alt="Languages used across public repositories" /></a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedRmadanMohamed&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedRmadanMohamed&theme=github_dark" width="49%" alt="Languages with the most commits" /></a>
+
+<br />
+
+<a href="https://github.com/AhmedRmadanMohamed?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedRmadanMohamed&theme=github_dark" width="100%" alt="GitHub contribution history" /></a>
+
+<br />
+
+<details>
+<summary><strong>Latest public commits</strong></summary>
+<br />
+
+<a href="https://github.com/AhmedRmadanMohamed/AhmedRmadanMohamed/commits/main">Profile README commit history →</a><br />
+<a href="https://github.com/AhmedRmadanMohamed/AhmedRmadanMohamed.github.io/commits/main">Portfolio commit history →</a><br />
+<a href="https://github.com/AhmedRmadanMohamed/HumanResourcesSystem/commits/main">Human Resources System commit history →</a><br />
+<a href="https://github.com/AhmedRmadanMohamed/E-commerce/commits/main">E-commerce commit history →</a>
+
+</details>
+
 </div>
 
 <br />
@@ -456,6 +482,8 @@ Software Development Life Cycle — Udemy
 <div align="center">
 
 Open to backend engineering discussions and Java ecosystem collaboration
+
+<img width="100%" src="./assets/ambient-rain.gif" alt="Subtle animated cyan, violet, and snow-white rain divider" />
 
 <img width="100%" src="./assets/footer.svg" alt="Java, Spring Boot, Microservices, and Oracle PL/SQL" />
 
