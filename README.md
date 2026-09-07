@@ -441,26 +441,10 @@ Software Development Life Cycle — Udemy
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AhmedRmadanMohamed&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AhmedRmadanMohamed&show_icons=true&hide_border=true&rank_icon=github&bg_color=F8FAFC&title_color=2563EB&text_color=334155&icon_color=7C3AED" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedRmadanMohamed&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&icon_color=8B5CF6" alt="Ahmed's GitHub statistics" />
-</picture>
+<p><strong>Public engineering activity</strong><br />
+<a href="https://github.com/AhmedRmadanMohamed?tab=overview&from=2023-01-01&to=2026-12-31">View contribution history on GitHub →</a></p>
 
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AhmedRmadanMohamed&hide_border=true&background=0B1220&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AhmedRmadanMohamed&hide_border=true&background=F8FAFC&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&sideLabels=334155&dates=64748B&currStreakNum=0F172A&sideNums=0F172A" />
-  <img src="https://streak-stats.demolab.com?user=AhmedRmadanMohamed&hide_border=true&background=0B1220&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Ahmed's GitHub contribution streak" />
-</picture>
-
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRmadanMohamed&bg_color=0B1220&color=CBD5E1&line=22D3EE&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true" alt="Ahmed's GitHub contribution activity graph" />
-
-<br />
-
+<img src="https://img.shields.io/github/repos/AhmedRmadanMohamed?label=Public%20repositories&style=for-the-badge&color=3B82F6&logo=github" alt="Public repositories" />
 <img src="https://komarev.com/ghpvc/?username=AhmedRmadanMohamed&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/AhmedRmadanMohamed?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/AhmedRmadanMohamed?affiliations=OWNER&label=Stars&style=for-the-badge&color=22D3EE&logo=github&logoColor=0F172A" alt="GitHub stars" />
