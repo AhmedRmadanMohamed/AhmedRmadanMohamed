@@ -450,6 +450,50 @@ Designed a MySQL data model with secure access controls and dependable inventory
 
 </details>
 
+<details>
+<summary><h3><strong>🖥️ Full-Stack Angular Portfolio</strong></h3></summary>
+<br />
+
+<img src="https://img.shields.io/badge/Angular-16-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 16" />
+<img src="https://img.shields.io/badge/TypeScript-5.1-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SCSS%20%2F%20CSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS and CSS" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+
+Built a responsive full-stack portfolio with an Angular 16 frontend and Spring Boot backend, including project browsing, about content, and a contact workflow.
+
+The frontend uses TypeScript components, Angular Material, Bootstrap 5, and global SCSS/CSS styling.
+
+<a href="https://github.com/AhmedRmadanMohamed/prtofolio">View source code →</a>
+
+</details>
+
+<details>
+<summary><h3><strong>🎁 Gift Catalog and SQL Generator</strong></h3></summary>
+<br />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/SQL%20Generator-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL and MySQL" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+
+Built a Spring Boot catalog application with a JavaScript and CSS browser UI, MySQL persistence, and SQL `INSERT` script generation with download and email delivery workflows.
+
+<a href="https://github.com/AhmedRmadanMohamed/GiftCatalog">View source code →</a>
+
+</details>
+
+<details>
+<summary><h3><strong>🧩 DevQA IntelliJ Platform Plugin (Private)</strong></h3></summary>
+<br />
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Gradle%20Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle Kotlin DSL" />
+<img src="https://img.shields.io/badge/IntelliJ%20Platform-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ Platform" />
+
+Private IntelliJ Platform plugin with Kotlin production sources, Gradle Kotlin DSL build configuration, Gradle Wrapper tasks, and plugin analysis tooling.
+
+</details>
+
 <br />
 
 <img width="100%" src="./assets/ambient-rain.gif" alt="" />
