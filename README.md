@@ -41,6 +41,10 @@
 
 <br />
 
+<img width="100%" src="./assets/ambient-rain.gif" alt="" />
+
+<br />
+
 <a id="about-me"></a><img width="100%" src="./assets/about.svg" alt="About Me" />
 Senior Java Backend Engineer and Oracle Certified Professional (Java SE 17 Developer) based in Cairo, Egypt, with 8+ years in software engineering and approximately 6 years focused on Java backend development. I design and build secure, production-grade services for financial and enterprise platforms.
 
@@ -92,6 +96,10 @@ Apply OOP, SOLID, Clean Code, design patterns, JUnit, Mockito, and structured pr
 
 <br />
 
+<img width="100%" src="./assets/ambient-rain.gif" alt="" />
+
+<br />
+
 <a id="core-stack"></a><img width="100%" src="./assets/stack.svg" alt="Core Technology Stack" />
 
 Backend Engineering
@@ -99,6 +107,8 @@ Backend Engineering
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="56" height="56" alt="Java SE 8/17" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="56" height="56" alt="Kotlin" />
 &nbsp;
 <img src="./assets/icons/java-ee.svg" width="56" height="56" alt="Java EE" />
 &nbsp;
@@ -118,6 +128,8 @@ Backend Engineering
 <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="56" height="56" alt="Hibernate" />
 &nbsp;
 <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="56" height="56" alt="Maven" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="56" height="56" alt="Gradle" />
 &nbsp;
 <img src="./assets/icons/rest-apis.svg" width="56" height="56" alt="REST APIs" />
 &nbsp;
@@ -246,7 +258,7 @@ Testing, Security & Engineering Practices
 
 <br />
 
-<details>
+<details open>
 <summary><strong>Additional Development Stack</strong></summary>
 <br />
 <div align="center">
@@ -254,6 +266,8 @@ Testing, Security & Engineering Practices
 <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="56" height="56" alt="Angular" />
 &nbsp;
 <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="56" height="56" alt="JavaScript" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="56" height="56" alt="TypeScript" />
 &nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="56" height="56" alt="Node.js" />
 &nbsp;
@@ -278,6 +292,10 @@ Testing, Security & Engineering Practices
 
 </div>
 </details>
+
+<br />
+
+<img width="100%" src="./assets/ambient-rain.gif" alt="" />
 
 <br />
 
@@ -358,6 +376,10 @@ Built and supported a client-facing electronic invoicing product using C# and AS
 
 <br />
 
+<img width="100%" src="./assets/ambient-rain.gif" alt="" />
+
+<br />
+
 <a id="projects"></a><img width="100%" src="./assets/projects.svg" alt="Featured Projects" />
 
 <details open>
@@ -409,6 +431,10 @@ Designed a MySQL data model with secure access controls and dependable inventory
 
 <br />
 
+<img width="100%" src="./assets/ambient-rain.gif" alt="" />
+
+<br />
+
 <a id="education"></a><img width="100%" src="./assets/education.svg" alt="Education and Certifications" />
 
 Education
@@ -438,6 +464,10 @@ Java Programming — HackerRank
 Software Development Life Cycle — Udemy
 
 </details>
+
+<br />
+
+<img width="100%" src="./assets/ambient-rain.gif" alt="" />
 
 <br />
 
