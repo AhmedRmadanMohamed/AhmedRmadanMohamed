@@ -19,7 +19,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Java+%7C+Spring+Boot+%7C+Microservices;Secure+REST+APIs+%7C+Oracle+PL%2FSQL;Enterprise+%26+Financial+Backend+Systems;Clean+Architecture+%7C+Production+Reliability" alt="Animated professional headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Java+%7C+Kotlin+%7C+Gradle;Angular+%7C+TypeScript+%7C+JavaScript+%7C+CSS%2FSCSS;Java+%7C+Spring+Boot+%7C+Microservices;Secure+REST+APIs+%7C+Oracle+PL%2FSQL;Enterprise+%26+Financial+Backend+Systems;Clean+Architecture+%7C+Production+Reliability" alt="Animated professional headline" />
 
 <br />
 
@@ -52,17 +52,19 @@ At Vodafone Egypt, I contribute to Vodafone Cash, a platform serving approximate
 
 Core expertise:
 
-• Java 17, Spring Boot, Spring Framework, Spring Data JPA, and Hibernate
+• Java 17, Kotlin, Spring Boot, Spring Framework, Spring Data JPA, Hibernate, Maven, and Gradle
 
 • Microservices, REST APIs, Apache Kafka, event-driven architecture, and distributed systems
 
 • Spring Security, OAuth 2.0, JWT, role-based access control, and API security
 
-• Oracle Database, PostgreSQL, MySQL, Redis, SQL/PLSQL tuning, and caching
+• Oracle Database, PostgreSQL, MySQL, Redis, SQL/PLSQL tuning, Flyway migrations, database scripts, and caching
 
-• Docker, Kubernetes, CI/CD, Jenkins, Maven, Git, AWS, and Azure
+• Docker, Kubernetes, CI/CD, Jenkins, Git, AWS, and Azure
 
 • JUnit, Mockito, unit testing, integration testing, Testcontainers, and SonarQube
+
+• Angular, TypeScript, JavaScript, HTML, and CSS/SCSS for full-stack portfolio delivery
 
 I develop business-critical backend flows, investigate production incidents, optimize database performance, review pull requests, and help teammates resolve technical problems. My focus is practical system design, reliable distributed services, clean code, and maintainable delivery.
 
@@ -104,6 +106,8 @@ Apply OOP, SOLID, Clean Code, design patterns, JUnit, Mockito, and structured pr
 
 Backend Engineering
 
+<p><strong>Java · Kotlin · Spring Boot · Microservices · REST APIs · Maven · Gradle</strong></p>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="56" height="56" alt="Java SE 8/17" />
@@ -142,6 +146,8 @@ Backend Engineering
 <br />
 
 Databases & Data Engineering
+
+<p><strong>SQL · PL/SQL · Oracle · MySQL · PostgreSQL · Flyway migrations</strong></p>
 
 <div align="center">
 
@@ -261,6 +267,7 @@ Testing, Security & Engineering Practices
 <details open>
 <summary><strong>Additional Development Stack</strong></summary>
 <br />
+<p><strong>Angular · TypeScript · JavaScript · HTML · CSS/SCSS</strong></p>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="56" height="56" alt="Angular" />
@@ -292,6 +299,20 @@ Testing, Security & Engineering Practices
 
 </div>
 </details>
+
+<br />
+
+#### Verified language and project usage
+
+| Technology | Where it is implemented |
+| --- | --- |
+| **Kotlin + Gradle** | **DevQA (private)** *(IntelliJ Platform plugin with Kotlin sources, `build.gradle.kts`, and the Gradle Wrapper)* |
+| **Angular + TypeScript + CSS/SCSS** | [`prtofolio`](https://github.com/AhmedRmadanMohamed/prtofolio) *(Angular 16 frontend with TypeScript components, global SCSS, Bootstrap, and Angular Material)* |
+| **JavaScript + CSS** | [`GiftCatalog`](https://github.com/AhmedRmadanMohamed/GiftCatalog) *(JavaScript UI, HTML templates, CSS, and a SQL insert-script generator)* |
+| **SQL** | [`HumanResourcesSystem`](https://github.com/AhmedRmadanMohamed/HumanResourcesSystem) *(Flyway migrations V1–V10)* · [`Human-Resources-v2.0.0`](https://github.com/AhmedRmadanMohamed/Human-Resources-v2.0.0) *(Flyway migrations)* · [`Stock-Pharmacy-`](https://github.com/AhmedRmadanMohamed/Stock-Pharmacy-) *(MySQL schema)* · [`Human-Resources`](https://github.com/AhmedRmadanMohamed/Human-Resources) *(PostgreSQL database setup)* |
+| **Java + Spring Boot** | [`E-commerce`](https://github.com/AhmedRmadanMohamed/E-commerce), [`HumanResourcesSystem`](https://github.com/AhmedRmadanMohamed/HumanResourcesSystem), [`Human-Resources-v2.0.0`](https://github.com/AhmedRmadanMohamed/Human-Resources-v2.0.0), [`Stock-Pharmacy-`](https://github.com/AhmedRmadanMohamed/Stock-Pharmacy-), and [`FileSimilarity`](https://github.com/AhmedRmadanMohamed/FileSimilarity) |
+
+<p><em>GitHub's public language cards only count code in public repositories. The Kotlin/Gradle project is private, so it is documented here explicitly without exposing its source.</em></p>
 
 <br />
 
