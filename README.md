@@ -507,15 +507,55 @@ Software Development Life Cycle — Udemy
 <p><strong>GitHub snapshot</strong><br />
 <a href="https://github.com/AhmedRmadanMohamed?tab=overview">Explore repositories and contributions →</a></p>
 
-<img src="https://img.shields.io/github/repos/AhmedRmadanMohamed?label=Public%20repositories&style=for-the-badge&color=3B82F6&logo=github" alt="Public repositories" />
+<img src="https://img.shields.io/badge/Public%20Repositories-13-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="13 public repositories" />
 <img src="https://komarev.com/ghpvc/?username=AhmedRmadanMohamed&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/AhmedRmadanMohamed?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/AhmedRmadanMohamed?affiliations=OWNER&label=Stars&style=for-the-badge&color=22D3EE&logo=github&logoColor=0F172A" alt="GitHub stars" />
 
 <br /><br />
 
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedRmadanMohamed&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedRmadanMohamed&theme=github_dark" width="49%" alt="Languages used across public repositories" /></a>
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedRmadanMohamed&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedRmadanMohamed&theme=github_dark" width="49%" alt="Languages with the most commits" /></a>
+<h3>Languages I Work With</h3>
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,py,go,js,ts,html,css,cs&theme=dark&perline=10" alt="Java, Kotlin, C++, Python, Go, JavaScript, TypeScript, HTML, CSS, and C#" />
+
+<p><strong>Java · Kotlin · C++ · Python · Go · JavaScript · TypeScript · HTML · CSS/SCSS · C# · SQL · PL/SQL</strong></p>
+
+<br />
+
+<h3>Frameworks &amp; Platforms</h3>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/IntelliJ%20Platform-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ Platform" />
+
+<br /><br />
+
+<h3>Messaging, Integration &amp; Build Tools</h3>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Apache%20Camel-E97826?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Camel" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+
+<br /><br />
+
+<details>
+<summary><strong>How GitHub calculates the automatic language cards</strong></summary>
+<br />
+
+GitHub Linguist calculates these cards from language bytes and commits in public repositories. It does not list frameworks or build tools, so Spring Boot, Spring Security, Spring Cloud, Angular, Maven, Gradle, and Flyway cannot appear as languages. Private repositories are also excluded from the public cards, including the Kotlin implementation of DevQA and private Python work.
+
+<br />
+
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedRmadanMohamed&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedRmadanMohamed&theme=github_dark" width="49%" alt="GitHub Linguist languages across public repositories" /></a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedRmadanMohamed&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedRmadanMohamed&theme=github_dark" width="49%" alt="GitHub Linguist languages across public commits" /></a>
+
+</details>
 
 <br />
 
