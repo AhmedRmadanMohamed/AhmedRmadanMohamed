@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">Ahmed Ramadan Mohamed — Senior Java Software Engineer</title>
+  <title id="title">Ahmed Ramadan Mohamed — Senior Java Backend Engineer</title>
   <desc id="desc">Dark premium banner with cyan, blue, and violet gradients.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -41,8 +41,8 @@
 
   <text x="72" y="202" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#F8FAFC">Ahmed Ramadan Mohamed</text>
   <rect x="72" y="222" width="636" height="7" rx="4" fill="url(#accent)"/>
-  <text x="72" y="270" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="650" fill="#CBD5E1">Senior Java Software Engineer</text>
-  <text x="72" y="307" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#94A3B8">Backend Engineering · Spring Boot · Microservices · Oracle PL/SQL</text>
+  <text x="72" y="270" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="650" fill="#CBD5E1">Senior Java Backend Engineer</text>
+  <text x="72" y="307" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#94A3B8">Java 17 · Spring Boot · Microservices · Kafka · Distributed Systems</text>
 
   <g transform="translate(846,160)">
     <rect x="0" y="0" width="286" height="142" rx="24" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>

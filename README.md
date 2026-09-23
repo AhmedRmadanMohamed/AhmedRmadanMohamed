@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/hero.svg" alt="Ahmed Ramadan Mohamed — Senior Java Software Engineer" />
+<img width="100%" src="./assets/hero.svg" alt="Ahmed Ramadan Mohamed — Senior Java Backend Engineer" />
 
 <br />
 
@@ -19,7 +19,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Java+%7C+Kotlin+%7C+Gradle;Angular+%7C+TypeScript+%7C+JavaScript+%7C+CSS%2FSCSS;Java+%7C+Spring+Boot+%7C+Microservices;Secure+REST+APIs+%7C+Oracle+PL%2FSQL;Enterprise+%26+Financial+Backend+Systems;Clean+Architecture+%7C+Production+Reliability" alt="Animated professional headline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Java+%7C+Kotlin+%7C+C%2B%2B+%7C+Python+%7C+Go;Angular+%7C+TypeScript+%7C+JavaScript+%7C+CSS%2FSCSS;Java+%7C+Spring+Boot+%7C+Microservices;Secure+REST+APIs+%7C+Oracle+PL%2FSQL;Enterprise+%26+Financial+Backend+Systems;Clean+Architecture+%7C+Production+Reliability" alt="Animated professional headline" />
 
 <br />
 
@@ -31,8 +31,8 @@
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Java%20Experience-6%20Years-3B82F6?style=flat-square&logo=openjdk&logoColor=white" alt="6 years of Java development experience" />
-<img src="https://img.shields.io/badge/Current%20Role-Senior%20Java%20Engineer-8B5CF6?style=flat-square&logo=openjdk&logoColor=white" alt="Senior Java Engineer" />
+<img src="https://img.shields.io/badge/Java%20Experience-Approximately%206%20Years-3B82F6?style=flat-square&logo=openjdk&logoColor=white" alt="Approximately 6 years of Java development experience" />
+<img src="https://img.shields.io/badge/Current%20Role-Senior%20Java%20Backend%20Engineer-8B5CF6?style=flat-square&logo=openjdk&logoColor=white" alt="Senior Java Backend Engineer" />
 <img src="https://img.shields.io/badge/Domain-Financial%20%26%20Enterprise%20Systems-0F172A?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Financial and enterprise systems" />
 <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Cairo, Egypt" />
 <img src="https://img.shields.io/badge/Open%20to-Egypt%20%7C%20Gulf%20%7C%20Europe-16A34A?style=flat-square&logo=handshake&logoColor=white" alt="Open to roles across Egypt, the Gulf, and Europe" />
@@ -52,7 +52,7 @@ At Vodafone Egypt, I contribute to Vodafone Cash, a platform serving approximate
 
 Core expertise:
 
-• Java 17, Kotlin, Spring Boot, Spring Framework, Spring Data JPA, Hibernate, Maven, and Gradle
+• Java 17, C#, C++, Python, Kotlin, JavaScript, TypeScript, Go, Spring Boot, Spring Framework, Spring Data JPA, Hibernate, Maven, and Gradle
 
 • Microservices, REST APIs, Apache Kafka, event-driven architecture, and distributed systems
 
@@ -70,7 +70,7 @@ I develop business-critical backend flows, investigate production incidents, opt
 
 I partner with DevOps teams on CI/CD releases to AWS and Azure environments.
 
-Open to Senior Java Backend Engineer opportunities across Egypt, the Gulf, and Europe, including remote, full-time, and contract roles.
+Open to Senior Java Backend Engineer opportunities across Egypt, the Gulf, and Europe, including remote, hybrid, full-time, and contract roles.
 
 <div align="center">
 
@@ -106,13 +106,20 @@ Apply OOP, SOLID, Clean Code, design patterns, JUnit, Mockito, and structured pr
 
 Backend Engineering
 
-<p><strong>Java · Kotlin · Spring Boot · Microservices · REST APIs · Maven · Gradle</strong></p>
+<p><strong>Java · C++ · Python · Kotlin · Go · Spring Boot · Microservices · REST APIs · Maven · Gradle</strong></p>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="56" height="56" alt="Java SE 8/17" />
 &nbsp;
 <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="56" height="56" alt="Kotlin" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="56" height="56" alt="C++" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="56" height="56" alt="Python" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=go&theme=dark" width="56" height="56" alt="Go" />
+<br />
 &nbsp;
 <img src="./assets/icons/java-ee.svg" width="56" height="56" alt="Java EE" />
 &nbsp;
@@ -306,13 +313,13 @@ Testing, Security & Engineering Practices
 
 | Technology | Where it is implemented |
 | --- | --- |
-| **Kotlin + Gradle** | **DevQA (private)** *(IntelliJ Platform plugin with Kotlin sources, `build.gradle.kts`, and the Gradle Wrapper)* |
+| **Kotlin + Gradle** | [**DevQA showcase**](https://github.com/AhmedRmadanMohamed/DevQAReview) *(IntelliJ Platform plugin with Kotlin sources, `build.gradle.kts`, and the Gradle Wrapper)* |
 | **Angular + TypeScript + CSS/SCSS** | [`prtofolio`](https://github.com/AhmedRmadanMohamed/prtofolio) *(Angular 16 frontend with TypeScript components, global SCSS, Bootstrap, and Angular Material)* |
 | **JavaScript + CSS** | [`GiftCatalog`](https://github.com/AhmedRmadanMohamed/GiftCatalog) *(JavaScript UI, HTML templates, CSS, and a SQL insert-script generator)* |
 | **SQL** | [`HumanResourcesSystem`](https://github.com/AhmedRmadanMohamed/HumanResourcesSystem) *(Flyway migrations V1–V10)* · [`Human-Resources-v2.0.0`](https://github.com/AhmedRmadanMohamed/Human-Resources-v2.0.0) *(Flyway migrations)* · [`Stock-Pharmacy-`](https://github.com/AhmedRmadanMohamed/Stock-Pharmacy-) *(MySQL schema)* · [`Human-Resources`](https://github.com/AhmedRmadanMohamed/Human-Resources) *(PostgreSQL database setup)* |
 | **Java + Spring Boot** | [`E-commerce`](https://github.com/AhmedRmadanMohamed/E-commerce), [`HumanResourcesSystem`](https://github.com/AhmedRmadanMohamed/HumanResourcesSystem), [`Human-Resources-v2.0.0`](https://github.com/AhmedRmadanMohamed/Human-Resources-v2.0.0), [`Stock-Pharmacy-`](https://github.com/AhmedRmadanMohamed/Stock-Pharmacy-), and [`FileSimilarity`](https://github.com/AhmedRmadanMohamed/FileSimilarity) |
 
-<p><em>GitHub's public language cards only count code in public repositories. The Kotlin/Gradle project is private, so it is documented here explicitly without exposing its source.</em></p>
+<p><em>GitHub's public language cards count code in public repositories; the DevQA showcase documents the plugin without exposing private implementation details.</em></p>
 
 <br />
 
@@ -404,93 +411,50 @@ Built and supported a client-facing electronic invoicing product using C# and AS
 <a id="projects"></a><img width="100%" src="./assets/projects.svg" alt="Featured Projects" />
 
 <details open>
-<summary><h3><strong>🛒 E-commerce Backend Foundation</strong></h3></summary>
+<summary><h3><strong>🧠 DevQA - Intelligence Platform</strong></h3></summary>
 <br />
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/REST%20API-22D3EE?style=flat-square&logoColor=0B1220" alt="REST API" />
+<img src="https://img.shields.io/badge/Sep%202026-Present-8B5CF6?style=flat-square&logo=calendar&logoColor=white" alt="September 2026 to present" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/IntelliJ%20Platform-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ Platform" />
+<img src="https://img.shields.io/badge/PSI%20APIs-22D3EE?style=flat-square&logoColor=0B1220" alt="PSI APIs" />
 
-Built a Spring Boot e-commerce backend foundation with MySQL persistence for products, categories, carts, orders, reviews, users, brands, and storefront parameters.
+Developing an IntelliJ IDEA plugin that analyzes Spring Boot repositories and classifies Controllers, Services, Repositories, Entities, and DTOs.
 
-Structured the service around layered controllers, services, DTO mapping, repositories, validation, exception handling, and maintainable REST APIs.
+Built Project Brain to inventory source, test, configuration, resource, SQL, and documentation files and present an interactive architecture dashboard. The current milestone is under testing and validation.
 
-<a href="https://github.com/AhmedRmadanMohamed/E-commerce">View source code →</a>
+<a href="https://github.com/AhmedRmadanMohamed/DevQAReview">Explore GitHub showcase →</a>
 
 </details>
 
-<details>
-<summary><h3><strong>👥 Human Resources API</strong></h3></summary>
+<details open>
+<summary><h3><strong>🛒 E-commerce Platform</strong></h3></summary>
 <br />
 
+<img src="https://img.shields.io/badge/Jul%202024-Feb%202026-3B82F6?style=flat-square&logo=calendar&logoColor=white" alt="July 2024 to February 2026" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+
+Built a full-stack e-commerce platform with a Spring Boot backend, PostgreSQL database, and Angular frontend. Implemented backend business logic, persistent data management, and application-level security and performance improvements.
+
+<a href="https://github.com/AhmedRmadanMohamed/E-commerce">View repository →</a>
+
+</details>
+
+<details open>
+<summary><h3><strong>👥 Human Resources Management System</strong></h3></summary>
+<br />
+
+<img src="https://img.shields.io/badge/May%202023-Nov%202023-0EA5E9?style=flat-square&logo=calendar&logoColor=white" alt="May 2023 to November 2023" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
 
-Built a secure Spring Boot HR API with stateless JWT authentication, role-based access control, BCrypt password hashing, Flyway migrations, OpenAPI documentation, Docker support, and MySQL persistence.
+Developed a human resources management application with Spring Boot and Spring Security and integrated PostgreSQL for persistent data storage.
 
-<a href="https://github.com/AhmedRmadanMohamed/Human-Resources-v2.0.0">View source code →</a>
-
-</details>
-
-<details>
-<summary><h3><strong>💊 Pharmacy Inventory System</strong></h3></summary>
-<br />
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-
-Developed a Spring Boot pharmacy inventory system for drugs, stock levels, suppliers, invoices, and discarded items.
-
-Designed a MySQL data model with secure access controls and dependable inventory workflows.
-
-<a href="https://github.com/AhmedRmadanMohamed/Stock-Pharmacy-">View source code →</a>
-
-</details>
-
-<details>
-<summary><h3><strong>🖥️ Full-Stack Angular Portfolio</strong></h3></summary>
-<br />
-
-<img src="https://img.shields.io/badge/Angular-16-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 16" />
-<img src="https://img.shields.io/badge/TypeScript-5.1-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SCSS%20%2F%20CSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS and CSS" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-
-Built a responsive full-stack portfolio with an Angular 16 frontend and Spring Boot backend, including project browsing, about content, and a contact workflow.
-
-The frontend uses TypeScript components, Angular Material, Bootstrap 5, and global SCSS/CSS styling.
-
-<a href="https://github.com/AhmedRmadanMohamed/prtofolio">View source code →</a>
-
-</details>
-
-<details>
-<summary><h3><strong>🎁 Gift Catalog and SQL Generator</strong></h3></summary>
-<br />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/SQL%20Generator-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL and MySQL" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-
-Built a Spring Boot catalog application with a JavaScript and CSS browser UI, MySQL persistence, and SQL `INSERT` script generation with download and email delivery workflows.
-
-<a href="https://github.com/AhmedRmadanMohamed/GiftCatalog">View source code →</a>
-
-</details>
-
-<details>
-<summary><h3><strong>🧩 DevQA IntelliJ Platform Plugin (Private)</strong></h3></summary>
-<br />
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Gradle%20Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle Kotlin DSL" />
-<img src="https://img.shields.io/badge/IntelliJ%20Platform-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ Platform" />
-
-Private IntelliJ Platform plugin with Kotlin production sources, Gradle Kotlin DSL build configuration, Gradle Wrapper tasks, and plugin analysis tooling.
+<a href="https://github.com/AhmedRmadanMohamed/Human-Resources">View repository →</a>
 
 </details>
 
@@ -504,7 +468,7 @@ Private IntelliJ Platform plugin with Kotlin production sources, Gradle Kotlin D
 
 Education
 
-Master of Science in Computer Science and Software Engineering — AASTMT, In Progress
+Master of Computer Applications (MCA), Computer Science — AASTMT, Jul 2022 - Jan 2027
 
 Bachelor of Science in Computer Science — AASTMT, 2019
 
