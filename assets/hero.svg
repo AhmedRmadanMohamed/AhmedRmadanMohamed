@@ -42,15 +42,15 @@
   <text x="72" y="202" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#F8FAFC">Ahmed Ramadan Mohamed</text>
   <rect x="72" y="222" width="636" height="7" rx="4" fill="url(#accent)"/>
   <text x="72" y="270" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="650" fill="#CBD5E1">Senior Java Backend Engineer</text>
-  <text x="72" y="307" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#94A3B8">Java 17 · Spring Boot · Microservices · Kafka · Distributed Systems</text>
+  <text x="72" y="307" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#94A3B8">Java 17 · Spring Boot · Microservices · Kafka · Redis</text>
 
   <g transform="translate(846,160)">
     <rect x="0" y="0" width="286" height="142" rx="24" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
     <circle cx="38" cy="38" r="13" fill="#22D3EE"/>
     <circle cx="38" cy="72" r="13" fill="#3B82F6"/>
     <circle cx="38" cy="106" r="13" fill="#8B5CF6"/>
-    <text x="68" y="45" font-family="JetBrains Mono, Consolas, monospace" font-size="17" fill="#E2E8F0">secure APIs</text>
-    <text x="68" y="79" font-family="JetBrains Mono, Consolas, monospace" font-size="17" fill="#E2E8F0">clean systems</text>
-    <text x="68" y="113" font-family="JetBrains Mono, Consolas, monospace" font-size="17" fill="#E2E8F0">reliable code</text>
+    <text x="68" y="45" font-family="JetBrains Mono, Consolas, monospace" font-size="17" fill="#E2E8F0">distributed systems</text>
+    <text x="68" y="79" font-family="JetBrains Mono, Consolas, monospace" font-size="17" fill="#E2E8F0">FinTech &amp; payments</text>
+    <text x="68" y="113" font-family="JetBrains Mono, Consolas, monospace" font-size="17" fill="#E2E8F0">Oracle certified</text>
   </g>
 </svg>
